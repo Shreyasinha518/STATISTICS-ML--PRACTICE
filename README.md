@@ -284,43 +284,7 @@ It is used to analyze differences among the means of multiple groups.
 </tr>
 </table>---
 
-<h1>Complete Statistics Roadmap</h1><div align="center"><pre>
-Statistics
-│
-├── Descriptive Statistics
-│   ├── Statistical Visualization
-│   ├── Central Tendency
-│   │   ├── Mean
-│   │   ├── Median
-│   │   └── Mode
-│   ├── Measures of Spread
-│   ├── Outliers
-│   ├── Five Number Summary
-│   ├── Variance
-│   ├── Standard Deviation
-│   ├── Density Curve
-│   └── Z-Score
-│
-├── Probability
-│   ├── Basic Probability
-│   ├── Probability Events
-│   ├── Addition Rule
-│   ├── Multiplication Rule
-│   ├── Conditional Probability
-│   └── Bayes' Theorem
-│
-├── Hypothesis Testing
-│   ├── Hypothesis Testing Basics
-│   ├── Z-Test
-│   ├── T-Test
-│   ├── Two Sample Test
-│   ├── Chi-Square Test
-│   └── ANOVA
-│
-└── Relationship Between Variables
-    ├── Covariance
-    └── Correlation
-</pre></div>---
+
 
 <h1>Tools and Libraries</h1><table>
 <tr>
